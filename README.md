@@ -1,6 +1,7 @@
 # IPF_SDOH
 code for AMIA 2025 Investigating the Impact of Social Determinants of Health on Diagnostic Delays and Access to Antifibrotic Treatment in Idiopathic Pulmonary Fibrosis
 
+If you feel this code is useful, please cite our work
 ```
 @article{li2024investigating,
   title={Investigating the Impact of Social Determinants of Health on Diagnostic Delays and Access to Antifibrotic Treatment in Idiopathic Pulmonary Fibrosis},
@@ -11,3 +12,6 @@ code for AMIA 2025 Investigating the Impact of Social Determinants of Health on 
   publisher={Cold Spring Harbor Laboratory Press}
 }
 ```
+
+[Open the report](docs/sdoh.pdf)
+
