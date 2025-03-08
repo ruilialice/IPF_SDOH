@@ -13,5 +13,6 @@ If you feel this code is useful, please cite our work
 }
 ```
 
-[Open the report](docs/sdoh.pdf)
+[paper](docs/sdoh.pdf)
+[slides](docs/slides.pdf)
 
