@@ -13,6 +13,6 @@ If you feel this code is useful, please cite our work
 }
 ```
 
-[paper](docs/sdoh.pdf)
-[slides](docs/slides.pdf)
+[paper](sdoh.pdf)
+[slides](slides.pdf)
 
