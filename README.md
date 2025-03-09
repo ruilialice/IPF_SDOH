@@ -12,6 +12,13 @@ If you feel this code is useful, please cite our work
   publisher={Cold Spring Harbor Laboratory Press}
 }
 ```
+## Prepare
+Request the [Census Data API Key](https://api.census.gov/data/key_signup.html).
+All census data used in this paper is using [American Community Survey 5-Year Data (2009-2023) API](https://www.census.gov/data/developers/data-sets/acs-5year.html).
+
+Request the [Air Quality System (AQS) API Key](https://aqs.epa.gov/aqsweb/documents/data_api.html#lists).
+
+
 
 [paper](sdoh.pdf)
 [slides](slides.pdf)
