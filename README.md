@@ -1,5 +1,5 @@
 # IPF_SDOH
-code for AMIA 2025 Investigating the Impact of Social Determinants of Health on Diagnostic Delays and Access to Antifibrotic Treatment in Idiopathic Pulmonary Fibrosis
+code for AMIA 2025 [Investigating the Impact of Social Determinants of Health on Diagnostic Delays and Access to Antifibrotic Treatment in Idiopathic Pulmonary Fibrosis](sdoh.pdf)
 
 If you feel this code is useful, please cite our work
 ```
@@ -20,6 +20,4 @@ Request the [Air Quality System (AQS) API Key](https://aqs.epa.gov/aqsweb/docume
 
 
 
-[paper](sdoh.pdf)
-[slides](slides.pdf)
 
