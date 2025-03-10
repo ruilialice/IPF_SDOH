@@ -25,7 +25,7 @@ run [get_sdoh.py](code/get_sdoh.py), replace line 14 with your own census api ke
 
 2. Get the PM2.5 data
 
-
+Run [get_pm25_info.py](code/get_pm25_info.py), replace line 5 and 6 with your email and key.
 
 
 3. Map the census and PM2.5 data to individual patients based on their gender , race and age.
@@ -36,6 +36,7 @@ run [map_census_pm_to_patients.py](code/map_census_pm_to_patients.py), to assign
 4. Train machine learning models and analyze the association between the SDoH and clinical outcomes.
 
 for two tasks, run regression_model.py and xgboost_classification.py under each folder.
+
 
 
 
