@@ -2,8 +2,8 @@ import requests
 import pandas as pd
 
 file = '../data/zip_to_county/distinct_zip_county_code.csv'
-email_address = 'rui.li.1@uth.tmc.edu'
-key = 'amberram37'
+email_address = 'xxxxxxxx'
+key = 'xxxxxxx'
 
 # air pollution info
 # the information is from website https://aqs.epa.gov/aqsweb/documents/data_api.html
