@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 
-data_file = '../data/data_treatment/ipf_final.csv'
+data_file = '../data/data_treatment/ipf_patient_info.csv'
 header_list = ['person_id', 'diagnosis_dt', 'occurrence_provider_id', 'visit_occurrence_id', 'race', 'gender', 'birth_dt',
                'diagnose_age', 'patient_location_zip', 'treatment_dt', 'antifibrotic_flag', 'symptom_dt', 'interval', 'abnormal_flag']
 df = pd.read_csv(data_file, names=header_list, dtype=str)
